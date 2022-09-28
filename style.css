@@ -42,13 +42,12 @@ img {
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   color: var(--dark-blue);
 }
 
 p {
   font-size: 15px;
-  line-height: 1.4;
   color: var(--grayish-blue);
 }
 
